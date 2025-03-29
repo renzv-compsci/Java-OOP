@@ -7,8 +7,8 @@ public class pracset1 {
     private String color;
     private double price;
 
+    // setter methods 
     public void setInfo(String brand, String color, double price) {
-    // defigning methods for displayinfo()
         this.brand = brand;
         this.color = color;
         this.price = price;
